@@ -1,6 +1,6 @@
-# VisualSource V4 Documentation
+# VisualSource V4 Documentation (unofficial)
 
-**VisualSource (VS)** is a node-based visual scripting language built for [RetroStudio](https://retrostudio.net) — a mid-2015 era Roblox game development environment. Instead of writing code, you connect visual **Blocks** together to build game logic, which is then compiled to Luau automatically.
+**VisualSource (VS)** is a node-based visual scripting language built for RetroStudio — a mid-2015 era Roblox game development environment. Instead of writing code, you connect visual **Blocks** together to build game logic, which is then compiled to Luau automatically.
 
 ---
 
